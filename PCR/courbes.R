@@ -3,6 +3,7 @@ library(readxl)
 library(ggplot2)
 library(gridExtra)
 
+# Le chemin est à modifier
 chemin <- "C:/Users/taksh/OneDrive - Universite Evry Val d'Essonne/LDD/Biologie/L3/Régulation Expression Génique Eucaryotes/TP/PCR/quantification_PCR.xlsx"
 
 # Un dataframe par gène 
