@@ -144,6 +144,7 @@ makeWholeHist <- function(data) {
 
 # Création d'un dataframe avec toutes les données (MERCI TASSILIE)
 library(readxl)
+# Le chemin est à modifier
 chemin <- "C:/Users/taksh/OneDrive - Universite Evry Val d'Essonne/LDD/Biologie/L3/Régulation Expression Génique Eucaryotes/TP/Photos/Photos.xlsx"
 exps <- read_excel(chemin, 
                    sheet = "Comptage", 
