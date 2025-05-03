@@ -5,4 +5,4 @@
 
 ## Histogrammes
 [Script pour l'histogramme](https://github.com/crakshay1/2025-NGF/blob/main/Histogrammes/Histo_Regu_Tah_Les_Prouveurs.R)  
-On notera des figures non utilisées qui ont générées afin de mieux comprendre le TP.
+On notera des figures non utilisées qui ont été générées afin de mieux comprendre le TP.
